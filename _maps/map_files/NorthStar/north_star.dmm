@@ -453,6 +453,7 @@
 "afs" = (
 /obj/machinery/portable_atmospherics/canister/plasma,
 /obj/effect/turf_decal/trimline/purple,
+/obj/machinery/atmospherics/miner/plasma,
 /turf/open/floor/engine/plasma,
 /area/station/engineering/atmos)
 "afv" = (
@@ -7384,6 +7385,7 @@
 "bQA" = (
 /obj/effect/turf_decal/trimline/red,
 /obj/machinery/portable_atmospherics/canister/nitrous_oxide,
+/obj/machinery/atmospherics/miner/n2o,
 /turf/open/floor/engine/n2o,
 /area/station/engineering/atmos)
 "bQG" = (
@@ -36898,6 +36900,7 @@
 /area/station/maintenance/floor2/port/aft)
 "jEt" = (
 /obj/machinery/portable_atmospherics/canister/carbon_dioxide,
+/obj/machinery/atmospherics/miner/carbon_dioxide,
 /turf/open/floor/engine/co2,
 /area/station/engineering/atmos)
 "jEO" = (
@@ -58872,6 +58875,7 @@
 "pht" = (
 /obj/effect/turf_decal/trimline/blue,
 /obj/machinery/portable_atmospherics/canister/oxygen,
+/obj/machinery/atmospherics/miner/oxygen,
 /turf/open/floor/engine/o2,
 /area/station/engineering/atmos)
 "phI" = (
@@ -81744,6 +81748,7 @@
 "vdd" = (
 /obj/machinery/portable_atmospherics/canister/nitrogen,
 /obj/effect/turf_decal/trimline/red,
+/obj/machinery/atmospherics/miner/nitrogen,
 /turf/open/floor/engine/n2,
 /area/station/engineering/atmos)
 "vdf" = (

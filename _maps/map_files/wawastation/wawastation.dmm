@@ -18308,6 +18308,7 @@
 /area/station/service/theater)
 "gyP" = (
 /obj/machinery/portable_atmospherics/canister/oxygen,
+/obj/machinery/atmospherics/miner/oxygen,
 /turf/open/floor/engine/o2,
 /area/station/engineering/atmos)
 "gyS" = (
@@ -26635,6 +26636,7 @@
 /area/station/maintenance/department/engine)
 "jyO" = (
 /obj/machinery/portable_atmospherics/canister/nitrous_oxide,
+/obj/machinery/atmospherics/miner/n2o,
 /turf/open/floor/engine/n2o,
 /area/station/engineering/atmos)
 "jyQ" = (
@@ -35506,6 +35508,7 @@
 /area/station/security/courtroom)
 "mBg" = (
 /obj/machinery/portable_atmospherics/canister/plasma,
+/obj/machinery/atmospherics/miner/plasma,
 /turf/open/floor/engine/plasma,
 /area/station/engineering/atmos)
 "mBj" = (
@@ -42712,6 +42715,7 @@
 /area/station/hallway/secondary/exit/departure_lounge)
 "pjk" = (
 /obj/machinery/portable_atmospherics/canister/nitrogen,
+/obj/machinery/atmospherics/miner/nitrogen,
 /turf/open/floor/engine/n2,
 /area/station/engineering/atmos)
 "pjl" = (
@@ -47195,6 +47199,7 @@
 /area/station/cargo/storage)
 "qNM" = (
 /obj/machinery/portable_atmospherics/canister/carbon_dioxide,
+/obj/machinery/atmospherics/miner/carbon_dioxide,
 /turf/open/floor/engine/co2,
 /area/station/engineering/atmos)
 "qNS" = (

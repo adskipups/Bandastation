@@ -24024,6 +24024,7 @@
 "hCN" = (
 /obj/machinery/portable_atmospherics/canister/nitrous_oxide,
 /obj/machinery/light/floor,
+/obj/machinery/atmospherics/miner/n2o,
 /turf/open/floor/engine/n2o,
 /area/station/engineering/atmos)
 "hCO" = (
@@ -25009,6 +25010,7 @@
 "hVy" = (
 /obj/machinery/portable_atmospherics/canister/nitrogen,
 /obj/machinery/light/floor,
+/obj/machinery/atmospherics/miner/nitrogen,
 /turf/open/floor/engine/n2,
 /area/station/engineering/atmos)
 "hVG" = (
@@ -26898,6 +26900,7 @@
 "iHh" = (
 /obj/machinery/portable_atmospherics/canister/plasma,
 /obj/machinery/light/floor,
+/obj/machinery/atmospherics/miner/plasma,
 /turf/open/floor/engine/plasma,
 /area/station/engineering/atmos)
 "iHr" = (
@@ -36915,6 +36918,7 @@
 "lVu" = (
 /obj/machinery/portable_atmospherics/canister/carbon_dioxide,
 /obj/machinery/light/floor,
+/obj/machinery/atmospherics/miner/carbon_dioxide,
 /turf/open/floor/engine/co2,
 /area/station/engineering/atmos)
 "lVz" = (
@@ -51703,6 +51707,7 @@
 "rjP" = (
 /obj/machinery/portable_atmospherics/canister/oxygen,
 /obj/machinery/light/floor,
+/obj/machinery/atmospherics/miner/oxygen,
 /turf/open/floor/engine/o2,
 /area/station/engineering/atmos)
 "rjT" = (
